@@ -1,0 +1,46 @@
+.container{
+    margin: 1rem;
+    padding: 1rem;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+
+.formcontainer{
+    margin: 1rem;
+    padding: 2rem;
+    background-color: rgb(230, 229, 229);
+    border: 1px solid black;
+    border-radius: 10px;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+.label{
+    color: rgb(112, 94, 214);
+    font-weight: bold;
+    font-size: medium;
+}
+
+.error{
+    font-size: medium;
+    color: rgb(219, 27, 27);
+    /* font-weight: bold; */
+}
+
+.requirements{
+    color: rgb(63, 102, 72);
+    /* font-weight: bold; */
+    font-size: medium;
+}
+
+.platforms{
+    display:flex;
+    justify-items: center;
+    align-items: baseline;
+    height: 40px;
+}

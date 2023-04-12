@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: url(https://imageio.forbes.com/specials-images/imageserve/61d6376afb41b047d0299df8/Video-Gamer-Mouse--Keyboard--Headphones-and-Controller/1960x0.jpg?format=jpg&width=960); */
+  background: url(https://pisces.bbystatic.com/image2/BestBuy_US/dam/sol-83559-digital-gaming-pol-85c75552-ffbc-4da1-a172-ae4ec5ead5a1.jpg;maxHeight=280;maxWidth=412);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  color:rgb(218, 42, 188);
+}
+
+h2 {
+  color:rgb(42, 68, 218);
+}
+
+h3 {
+  color:rgb(167, 48, 64);
+}
+
+h5 {
+  color:rgb(235, 117, 70);
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
