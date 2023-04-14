@@ -16,7 +16,7 @@ Si te interesa mi perfil, podés contactarme por mail: hdanziger@gmail.com
 
 
 # SOBRE APPVideogames:
-Esta APP toma datos online de la API RAWG, y la utilza para renderizar Cards con información relevante sobre los distintos videogames: nombre, género, imagen.
+Esta SPA (Singke Page App) toma datos online de la API RAWG, y la utilza para renderizar Cards con información relevante sobre los distintos videogames: nombre, género, imagen.
 También permite agregar un nuevo videogame a través de un form controlado que valida los datos a medida que se ingresan. Los datos se guardan en una base de datos relacional SQL. Al hacer esto, se crea automáticamente una nueva Card donde se renderiza la información ingresada (es decir que la APP toma información tanto de API RAWG como de la base de datos SQL, en forma simultánea).
 La APP permite distintas opciones de visualización de las Cards: ordenamiento por orden alfabético y rating (tanto en forma ascendente como descendente) y filtros por género y origen del videogame (API RAWG o base de datos). Incluye también un barra de búsqueda para encontrar videogames por su nombre.
 Al clickear en una Card en particular, se muestra el detalle con todos los datos de ese videogame.
@@ -24,15 +24,15 @@ Al clickear en una Card en particular, se muestra el detalle con todos los datos
 Las tecnologías que utilicé son:
 NodeJS | React | Redux | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT | JavaScript |
 
-ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nuevas funciones agregadas
+ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nuevas funciones agregadas.
 
 # ABOUT THE APPVideogames:
-This APP takes online data from the RAWG API, and uses it to render Cards with relevant information about the different videogames: name, genre, image.
-It also allows adding a new video game through a controlled form that validates the data as it is entered. The data is stored in a relational SQL database. When doing this, a new Card is automatically created where the information entered is rendered (the APP takes information both from API RAWG and the SQL database, simultaneously).
-The APP allows different options for displaying the Cards: sorting by alphabetical order and rating (both ascending and descending) and filters by genre and origin of the videogame (RAWG API or database). It also includes a search bar to find videogames by name.
-When clicking on a particular Card, it takes you to a we page where all the details are displayed.
+This SPA (Single Page App) takes online data from the RAWG API, and uses it to render Cards with relevant information about the different videogames: name, genre, image.
+It also allows adding a new videogame through a controlled form that validates the data as it is entered. The data is stored in a relational SQL database. When doing this, a new Card is automatically created and the information entered is rendered (the APP takes information both from API RAWG and the SQL database, simultaneously).
+The APP allows different options for displaying the Cards: sorting by alphabetical order and rating (both ascending and descending) and filters by genre and origin of the videogame (RAWG API or database). It also includes a searchbar to find videogames by name.
+When clicking on a particular Card, it takes you to a web page where all the details are displayed.
 
-Technologies used  buid this:
+Technologies used build this:
 NodeJS | React | Redux | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT | javascript |
 
 DISCLAIMER: This is a Work in Progress. Aesthetics will be improved and new features added.
