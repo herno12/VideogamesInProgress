@@ -15,16 +15,6 @@ Cuando llegó la Pandemia decidí aprovechar la oportunidad para desarrollarme y
 Soy una persona responsable, comprometida y confiable, con muy buenas habilidades interpersonales, gran capacidad de trabajo en equipo y capacidades analíticas, que busca crecer y desarrollarse en una empresa, generando valor agregado.
 Si te interesa mi perfil, puedes contactarme por mail: hdanziger@gmail.com
 
-# 🎮 SOBRE APPVideogames:
-Esta SPA (Single Page App) toma datos online de la API REST RAWG, y la utilza para renderizar Cards con información relevante sobre los distintos videogames: nombre, género, imagen.
-También permite agregar un nuevo videogame a través de un form controlado que valida los datos a medida que se ingresan. Los datos se guardan en una base de datos relacional SQL. Al hacer esto, se crea automáticamente una nueva Card donde se renderiza la información ingresada (es decir que la APP toma información tanto de API REST como de la base de datos SQL, en forma simultánea).
-La APP permite distintas opciones de visualización de las Cards: ordenamiento por orden alfabético y rating (tanto en forma ascendente como descendente) y filtros por género y origen del videogame (API REST o base de datos). Incluye también un barra de búsqueda para encontrar videogames por su nombre.
-Al clickear en una Card en particular, se muestra el detalle con todos los datos de ese videogame.
-
-Las tecnologías que utilicé son:
-Node | React | Redux | Javascript | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT
-
-ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nuevas funciones agregadas.
 
 # 🎮 ABOUT THE APPVideogames:
 This SPA (Single Page App) takes online data from REST API Rawg, and uses it to render Cards with relevant information about the different videogames: name, genre, image.
@@ -36,3 +26,15 @@ Technologies used to build this:
 Node | React | Redux | Javascript | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT
 
 DISCLAIMER: This is a Work in Progress. Aesthetics will be improved and new features added.
+
+
+# 🎮 SOBRE APPVideogames:
+Esta SPA (Single Page App) toma datos online de la API REST RAWG, y la utilza para renderizar Cards con información relevante sobre los distintos videogames: nombre, género, imagen.
+También permite agregar un nuevo videogame a través de un form controlado que valida los datos a medida que se ingresan. Los datos se guardan en una base de datos relacional SQL. Al hacer esto, se crea automáticamente una nueva Card donde se renderiza la información ingresada (es decir que la APP toma información tanto de API REST como de la base de datos SQL, en forma simultánea).
+La APP permite distintas opciones de visualización de las Cards: ordenamiento por orden alfabético y rating (tanto en forma ascendente como descendente) y filtros por género y origen del videogame (API REST o base de datos). Incluye también un barra de búsqueda para encontrar videogames por su nombre.
+Al clickear en una Card en particular, se muestra el detalle con todos los datos de ese videogame.
+
+Las tecnologías que utilicé son:
+Node | React | Redux | Javascript | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT
+
+ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nuevas funciones agregadas.
