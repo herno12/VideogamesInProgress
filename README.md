@@ -16,7 +16,7 @@ Si te interesa mi perfil, podés contactarme por mail: hdanziger@gmail.com
 
 
 # SOBRE APPVideogames:
-Esta SPA (Singke Page App) toma datos online de la API RAWG, y la utilza para renderizar Cards con información relevante sobre los distintos videogames: nombre, género, imagen.
+Esta SPA (Single Page App) toma datos online de la API RAWG, y la utilza para renderizar Cards con información relevante sobre los distintos videogames: nombre, género, imagen.
 También permite agregar un nuevo videogame a través de un form controlado que valida los datos a medida que se ingresan. Los datos se guardan en una base de datos relacional SQL. Al hacer esto, se crea automáticamente una nueva Card donde se renderiza la información ingresada (es decir que la APP toma información tanto de API RAWG como de la base de datos SQL, en forma simultánea).
 La APP permite distintas opciones de visualización de las Cards: ordenamiento por orden alfabético y rating (tanto en forma ascendente como descendente) y filtros por género y origen del videogame (API RAWG o base de datos). Incluye también un barra de búsqueda para encontrar videogames por su nombre.
 Al clickear en una Card en particular, se muestra el detalle con todos los datos de ese videogame.
