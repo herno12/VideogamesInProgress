@@ -1,6 +1,6 @@
 ## 👋 About me
 I am Hernan Danziger, a Fullstack Developer with solid knowledge of Node, React, Redux, JavaScript, TypeScript, SQL, MongoDB, Express, Sequelize, CSS, HTML5 and Git.
-I am comfortable both working alone or as part of a team. I have worked in an agile framework such as Scrum, and found it to be a great experience.
+I feel comfortable both working alone or as part of a team. I have worked in an agile framework such as Scrum, and found it to be a great experience.
 Furthermore, I have a degree in Business & Finance, and more than 10 years of experience managing teams in the Tourism industry, and as a consultant in the Health industry.
 When the pandemic came, I decided to take it as a chance to develop and throw myself into a path I had always found very appealing: being an IT Developer
 I am a responsible, committed and reliable person, with very good interpersonal and analytical skills, and a great capacity for teamwork.
