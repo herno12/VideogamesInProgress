@@ -22,10 +22,10 @@ It also allows adding a new videogame through a controlled form that validates t
 The APP allows different options for displaying the Cards: sorting by alphabetical order and rating (both ascending and descending) and filters by genre and origin of the videogame (REST API or database). It also includes a searchbar to find videogames by name.
 When clicking on a particular Card, it takes you to a web page where all the details are displayed.
 
-Technologies used to build this:
+Tech I used to build this:
 Node | React | Redux | Javascript | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT
 
-DISCLAIMER: This is a Work in Progress. Aesthetics will be improved and new features added.
+DISCLAIMER: This is a Work in Progress. Aesthetics will be improved and new features added. Images will be uploaded ASAP.
 
 
 # 🎮 SOBRE APPVideogames:
@@ -37,4 +37,4 @@ Al clickear en una Card en particular, se muestra el detalle con todos los datos
 Las tecnologías que utilicé son:
 Node | React | Redux | Javascript | PostgreSQL | Express | Sequelize | CSS | HTML5 | GIT
 
-ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nuevas funciones agregadas.
+ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nuevas funciones agregadas. Próximamente subiré imágenes.
