@@ -16,7 +16,7 @@ Soy una persona responsable, comprometida y confiable, con muy buenas habilidade
 Si te interesa mi perfil, puedes contactarme por mail: hdanziger@gmail.com
 
 
-# 🎮 ABOUT THE APPVideogames:
+# 🎮 ABOUT APPVideogames:
 This SPA (Single Page App) takes online data from REST API Rawg, and uses it to render Cards with relevant information about the different videogames: name, genre, image.
 It also allows adding a new videogame through a controlled form that validates the data as it is entered. The data is stored in a relational SQL database. When doing this, a new Card is automatically created and the information entered is rendered (the APP takes information both from the REST API and the SQL database, simultaneously).
 The APP allows different options for displaying the Cards: sorting by alphabetical order and rating (both ascending and descending) and filters by genre and origin of the videogame (REST API or database). It also includes a searchbar to find videogames by name.
